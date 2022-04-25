@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+Paradigm Shift by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-You can use the [editor on GitHub](https://github.com/aoweichwn/aoweichwn/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Say hello to Paradigm Shift, my first addition to HTML5 UP in more than a year (!!!).
+Took things in a slightly different direction with this one, partly to mess with CSS
+grid (which this one relies on pretty heavily) but mostly to get back to making weirder
+and more experimental designs/layouts. Anyway, hope you dig it, and thanks for the
+continued support despite the lack of updates :)
 
-### Markdown
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+(* = not included)
 
-```markdown
-Syntax highlighted code block
+AJ
+aj@lkn.io | @ajlkn
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Credits:
 
-1. Numbered
-2. List
+	Demo Images:
+		Unsplash (unsplash.com)
 
-**Bold** and _Italic_ and `Code` text
+	Icons:
+		Font Awesome (fontawesome.io)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aoweichwn/aoweichwn/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	Other:
+		jQuery (jquery.com)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
